@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/Blockchain47_backend"
+]
+resolver = "2"

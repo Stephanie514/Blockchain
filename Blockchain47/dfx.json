@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "Blockchain47_backend": {
+      "candid": "src/Blockchain47_backend/Blockchain47_backend.did",
+      "package": "Blockchain47_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
